@@ -24,7 +24,8 @@ Preguntas:
 
 3. En una BD al usuario del sistema se le brindarán recursos para realizar diversas
 operaciones sobre estos archivos, tales como: (valor 1.5)
-*** Efectuar cargos o abonos en las cuentas.
+
+* Efectuar cargos o abonos en las cuentas.
 
 • Añadir cuentas nuevas.
 
