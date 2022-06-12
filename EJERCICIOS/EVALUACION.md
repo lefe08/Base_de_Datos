@@ -35,7 +35,7 @@ operaciones sobre estos archivos, tales como: (valor 1.5)
 
 
 
-   4. ¿Qué es un Sistema de Información? (valor 1.5)
+    4¿Qué es un Sistema de Información? (valor 1.5)
 
 
          
