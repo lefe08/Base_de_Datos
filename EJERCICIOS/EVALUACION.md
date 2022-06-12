@@ -7,10 +7,18 @@ mediante preguntas abiertas.
  
 Preguntas:
 
-1. ¿Cuáles son las cinco funciones principales del administrador de bases de datos?
+1. ¿Cuáles son las cinco funciones principales del administrador de bases de datos?Requerimentos
+**Diseño
+**Desarrollo
+**Verificacion
+**Mantenimento
 (valor 1.5)
 
-2. Indíque cinco responsabilidades del sistema gestor de bases de datos (valor 1.5)
+2. Indíque cinco responsabilidades del sistema gestor de bases de datos (valor 1.5)organizacion
+**almacenan
+**Guardan
+**procesamiento de archivos
+**registros permanentes
 
 3. En una BD al usuario del sistema se le brindarán recursos para realizar diversas
 operaciones sobre estos archivos, tales como: (valor 1.5)
