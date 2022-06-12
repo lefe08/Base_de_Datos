@@ -7,10 +7,10 @@ mediante preguntas abiertas.
  
 Preguntas:
 
-1. ¿Cuáles son las cinco funciones principales del administrador de bases de datos?#
+1. ¿Cuáles son las cinco funciones principales del administrador de bases de datos?
 #Requerimentos
-#Diseño
-#Desarrollo
+##Diseño
+*#Desarrollo
 #Verificacion
 #Mantenimento
 (valor 1.5)
