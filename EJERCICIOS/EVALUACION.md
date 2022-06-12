@@ -25,13 +25,13 @@ Preguntas:
 3. En una BD al usuario del sistema se le brindarán recursos para realizar diversas
 operaciones sobre estos archivos, tales como: (valor 1.5)
 
-* Efectuar cargos o abonos en las cuentas.
+ * Efectuar cargos o abonos en las cuentas.
 
-• Añadir cuentas nuevas.
+ * Añadir cuentas nuevas.
 
-• Calcular el saldo de las cuentas.
+ * Calcular el saldo de las cuentas.
 
-• Generar los extractos mensuales.
+ * Generar los extractos mensuales.
 
 4. ¿Qué es un Sistema de Información? (valor 1.5)
 
