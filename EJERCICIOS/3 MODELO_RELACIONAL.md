@@ -14,7 +14,4 @@ por cada revisión que se haga. De cada revisión se desea saber si se ha hecho 
 filtro, si se ha hecho cambio de aceite, si se ha hecho cambio de frenos u otros. Los
 coches pueden pasar varias revisiones en el concesionario
 
-
-
-
-                 ![image](https://user-images.githubusercontent.com/101213081/174405803-0cbf0ba1-422a-4785-b003-82773975c039.png)
+![image](https://user-images.githubusercontent.com/101213081/174405803-0cbf0ba1-422a-4785-b003-82773975c039.png)
