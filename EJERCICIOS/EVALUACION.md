@@ -84,3 +84,5 @@ constan de un título y una extensión.
 
 ● Para cada revista, almacenaremos información de cada ejemplar, que incluirá la
 fecha, número de páginas y el número de ejemplares vendidos.
+
+https://www.db-fiddle.com/f/q8n9Ad6bGUiAiXvjQiQ27V/3
