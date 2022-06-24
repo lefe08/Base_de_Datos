@@ -83,3 +83,5 @@ Modelo entidad/relación!
 
 
 Base de datos para MySQL
+  
+  https://www.db-fiddle.com/f/mn8MuwJs3GHbkELL2sDX4J/1
