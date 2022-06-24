@@ -4,15 +4,15 @@ Objetivo: Demostrar la correcta identificación de los conceptos del lenguaje SQ
 Ejercicio:
 
 1. Menciona los comandos DMl: (valor .85)
-        * select
-        * Insert
-        * Update
-        * Delete
+             *  select
+             *  Insert
+             *  Update
+             *  Delete
         
 2. Menciona 3 tipos de datos que existen: (valor .85)
-        * Char
-        * Varchar
-        * Int
+     * Char
+     * Varchar
+     * Int
 
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
      * DELETE: Elimina Una serie de filas 
