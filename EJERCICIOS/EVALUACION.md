@@ -85,11 +85,14 @@ constan de un título y una extensión.
 ● Para cada revista, almacenaremos información de cada ejemplar, que incluirá la
 fecha, número de páginas y el número de ejemplares vendidos.
 
+
       ![image](https://user-images.githubusercontent.com/101213081/175388306-9d5fc4a7-cb68-480b-9764-a7cd8af42a48.png)
-        https://www.db-fiddle.com/f/aRnA8HjPnJVt3Fr7dgfZMW/0
-        https://www.db-fiddle.com/f/aRnA8HjPnJVt3Fr7dgfZMW/1
-        https://www.db-fiddle.com/f/aRnA8HjPnJVt3Fr7dgfZMW/2
-        https://www.db-fiddle.com/f/q8n9Ad6bGUiAiXvjQiQ27V/3
-        https://www.db-fiddle.com/f/aRnA8HjPnJVt3Fr7dgfZMW/4
+      
+      
+      https://www.db-fiddle.com/f/aRnA8HjPnJVt3Fr7dgfZMW/0
+      https://www.db-fiddle.com/f/aRnA8HjPnJVt3Fr7dgfZMW/1
+      https://www.db-fiddle.com/f/aRnA8HjPnJVt3Fr7dgfZMW/2
+      https://www.db-fiddle.com/f/q8n9Ad6bGUiAiXvjQiQ27V/3
+      https://www.db-fiddle.com/f/aRnA8HjPnJVt3Fr7dgfZMW/4
 
       
