@@ -8,7 +8,21 @@ sirve tanto para propósitos empresariales como para necesidades académicas y f
 
 Ejemplifica los Gestores de Bases de Datos según el tipo de BD.
 
+
+
 Microsoft Access ( relacional )
 
 Es una aplicación de base de datos relacional  incluida en el Microsoft Office Suite que permite a los usuarios introducir, gestionar y ejecutar imformes a mayor escala, es más adecuada para quienes necesitan organizar rápidamente una gran cantidad de datos. Se encuentra en algún lugar entre Excel, que es ideal para individuos con un pequeño almacenamiento de datos y los servidores SQL, que son necesarios para equipos más grandes y corporativos.
 Con la ayuda de Microsoft Access, los usuarios pueden gestionar eficazmente la información importante almacenándola convenientemente para futuras referencias,informes y análisis. Como su nombre lo indica, los usuarios tendrán acceso a la información organizada en su base de datos con un esfuerzo mínimo.
+  ** CARACTERÍSTICAS DE MICROSOFT ACCESS
+  ° Ideal para usuarios individuales y equipos pequeños
+  ° Más fácil de entender y utilizar que la base de datos cliente-servidor
+  ° Importación y exportación a otras aplicaciones de Microsoft Office y otras aplicaciones
+  ° Plantillas listas para que los usuarios habituales creen y publiquen datos 
+  ° Permite construir y publicar bases de datos en la Web sin esfuerzo 
+  ° Una funcion fácil de usar 'Tell Me' para asistencia
+  ° Permite a los desarrolladores crear soluciones personalizadas utilizando el código VBA
+  ° Opción de oculat/mostrar la cinta
+  ° Permite a los usuarios ver los informes Elimina los informes adicionales
+  ° Permite la salida de informes en formato  PDF
+  ![imagen](https://user-images.githubusercontent.com/101213081/176788465-bdf33aae-6a65-45a3-8ce7-6b64c0fe74a6.png)
