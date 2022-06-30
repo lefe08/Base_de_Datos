@@ -78,6 +78,25 @@ Es un SGBD multihilo y multiusuario utilizado en la gran parte de las páginas w
 
 
  ° PostgreSQL Este sistema gestor de base de datos relacional está orientado a objetos y es libre, publicado bajo la licencia BS
+ 
+ 
+ ° Otros Sistemas Gestores de bases de datos no relacionales muy utilizados son:
+
+ Azure Cosmos DB
+ 
+ RavenDB
+ 
+ ObjectDB
+ 
+ Apache CouchDB
+ 
+ Neo4j
+ 
+ Google BigTable
+ 
+ Apache Hbase
+ 
+ Amazon DynamoDB
 
 
 
