@@ -24,5 +24,6 @@ Con la ayuda de Microsoft Access, los usuarios pueden gestionar eficazmente la i
   ° Permite a los desarrolladores crear soluciones personalizadas utilizando el código VBA
   ° Opción de oculat/mostrar la cinta
   ° Permite a los usuarios ver los informes Elimina los informes adicionales
-  ° Permite la salida de informes en formato  PDF
+  ° Permite la salida de informes en formato PDF
+  
   ![imagen](https://user-images.githubusercontent.com/101213081/176788465-bdf33aae-6a65-45a3-8ce7-6b64c0fe74a6.png)
