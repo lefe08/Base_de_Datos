@@ -59,6 +59,30 @@ de análisis sobre los datos.
 
 ![imagen](https://user-images.githubusercontent.com/101213081/176790115-7fb56870-0b4c-41f3-88cc-d73ab1a53f82.png)
 
+My SQL
+
+Es un gestor de bases de datos, y actualmente uno de los más usados y reconocidos del mercado.
+Especialmente en lo que se refiere a desarrollo web, está clasificada como la base de datos de código
+abierto más popular del mundo.
+
+Fue desarrollada inicialmente por MySQL AB, luego adquirida por Sun Microsystems y luego
+posteriormente por Oracle Coporation en 2010.
+
+Está desarrollado mayormente por una mezcla de los lenguajes C y C++. Es uno de los cuatro
+componentes del paquete de desarrollo LAMP, para Linux (corre perfecto en cualquier distro Linux, y se
+hizo muy popular al hacerlo en RedHat Enterprise), y WAMP, para Windows Server.
+Es un SGBD multihilo y multiusuario utilizado en la gran parte de las páginas web actuales. Además es el más usado en aplicaciones creadas como software libre.
+
+
+![imagen](https://user-images.githubusercontent.com/101213081/176791520-ee28839b-7a6b-4559-9fb7-620bb78a2d72.png)
+
+
+ ° PostgreSQL Este sistema gestor de base de datos relacional está orientado a objetos y es libre, publicado bajo la licencia BS
+
+
+
+
+
 
 
 
