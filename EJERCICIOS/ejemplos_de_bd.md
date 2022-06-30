@@ -9,6 +9,9 @@ sirve tanto para propósitos empresariales como para necesidades académicas y f
 Ejemplifica los Gestores de Bases de Datos según el tipo de BD.
 
 
+ # Bases de Datos Relacionales
+
+
 
 Microsoft Access ( relacional )
 
@@ -77,9 +80,27 @@ Es un SGBD multihilo y multiusuario utilizado en la gran parte de las páginas w
 ![imagen](https://user-images.githubusercontent.com/101213081/176791520-ee28839b-7a6b-4559-9fb7-620bb78a2d72.png)
 
 
+ ° MariaDB Este SGBD es una derivación de MySQL que cuenta con la mayoría de características de este e incluye varias extensiones.
+Nace a partir de la adquisición de MySQL por parte de Oracle para seguir la filosofía Open Source y tiene la ventaja de que es totalmente compatible con MySQL
+ ° SQLite Más que un Sistema Gestor de bases de datos como tal, SQLite es una biblioteca escrita en C que implementa un SGBD y que permite transacciones sin necesidad de un servidor ni configuraciones
+ ° Oracle Tradicionamente, Oracle ha sido el SGBD por excelencia para el mundo empresarial, considerado siempre como el más completo y robusto, destacando por:
  ° PostgreSQL Este sistema gestor de base de datos relacional está orientado a objetos y es libre, publicado bajo la licencia BS
  
  
+ 
+ # Base de datos no relacionales
+ 
+ ° MongoDB Estamos ante el Sistema Gestor de Bases de Datos no relacionales (SGBD NoSQL) más popular y utilizado actualmente.
+   MongoDB es un SBGD NoSQL orientado a ficheros que almacena la información en estructuras BSON con un esquema dinámico que permite su facilidad de integración.
+   
+ ° Redis Redis está basado en el almacenamiento clave-valor. Podríamos verlo como un vector enorme que almacena todo tipo de datos, desde cadenas, hashses, listas, etc.
+El principal uso de este SGBD es para el almacenamiento en memoria caché y la administración de sesiones.
+Empresas como Google, Facebook, eBay, Cisco o Adobe utilizan MongoDB como Sistema Gestor de Bases de datos
+
+° Cassandra Al igual que Redis, Cassandra también utiliza almacenamiento clave-valor. Es un SGBD NoSQL distribuido y masivamente escalable.
+° 
+
+
  ° Otros Sistemas Gestores de bases de datos no relacionales muy utilizados son:
 
  Azure Cosmos DB
