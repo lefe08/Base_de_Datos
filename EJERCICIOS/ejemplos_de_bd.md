@@ -26,7 +26,7 @@ Con la ayuda de Microsoft Access, los usuarios pueden gestionar eficazmente la i
   ° Permite a los usuarios ver los informes Elimina los informes adicionales
   ° Permite la salida de informes en formato PDF
   
-  ![imagen](https://user-images.githubusercontent.com/101213081/176788465-bdf33aae-6a65-45a3-8ce7-6b64c0fe74a6.png)
+  ![imagen](https://user-images.githubusercontent.com/101213081/176790524-11d47d90-ab96-427c-b59e-22863960f285.png)
   
  Microsoft SQL Server (relacional)
 Es uno de los principales sistemas de gestión de bases de datos relacional del mercado que
@@ -58,5 +58,33 @@ datos con cualquier dispositivo y servicios de Azure para obtener mejor rendimie
 de análisis sobre los datos.
 
 ![imagen](https://user-images.githubusercontent.com/101213081/176790115-7fb56870-0b4c-41f3-88cc-d73ab1a53f82.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
