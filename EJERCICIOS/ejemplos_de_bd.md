@@ -43,7 +43,6 @@ procesamiento de comandos, consultas, así como del almacenamiento de archivos, 
 tablas y búferes de datos. Sus niveles secundarios están destinados a la gestión de la
 memoria, programación y administración de las interacciones de solicitud y respuesta con los
 servidores que alojan las bases de datos.
-
 ** caracteristicas
 ° Inteligencia en todos sus datos con clústeres de Big Data: pudiendo consultar todo tu patrimonio
 de datos desde SQL Serve hasta Oracle sin necesidad de replicarlos.
