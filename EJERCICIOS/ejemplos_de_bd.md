@@ -27,3 +27,32 @@ Con la ayuda de Microsoft Access, los usuarios pueden gestionar eficazmente la i
   ° Permite la salida de informes en formato PDF
   
   ![imagen](https://user-images.githubusercontent.com/101213081/176788465-bdf33aae-6a65-45a3-8ce7-6b64c0fe74a6.png)
+  
+ Microsoft SQL Server (relacional)
+Es uno de los principales sistemas de gestión de bases de datos relacional del mercado que
+presta servicio a un amplio abanico de aplicaciones de software destinadas a la inteligencia
+empresarial y análisis sobre entornos corporativos. Basada en el lenguaje Transact-SQL,
+incorpora un conjunto de extensiones de programación propias de lenguaje estándar y su
+aplicación está disponible para usarse tanto a nivel on premise o bajo una modalidad cloud
+Es ideal para almacenar toda la información deseada en bases de datos relacionales, como
+también para administrar dichos datos sin complicaciones, gracias a su interfaz visual y a las
+opciones y herramientas que tiene. Es algo vital, especialmente en webs que tienen la opción
+de registrar usuarios para que inicien sesión.
+Su componente principal está compuesto por un motor relacional encargado del
+procesamiento de comandos, consultas, así como del almacenamiento de archivos, bb.dd.,
+tablas y búferes de datos. Sus niveles secundarios están destinados a la gestión de la
+memoria, programación y administración de las interacciones de solicitud y respuesta con los
+servidores que alojan las bases de datos.
+** caracteristicas
+° Inteligencia en todos sus datos con clústeres de Big Data: pudiendo consultar todo tu patrimonio
+de datos desde SQL Serve hasta Oracle sin necesidad de replicarlos.
+°  Elección de Lenguaje y Plataforma: Desde Windows o Linux, hasta implementaciones con
+Kubernetes
+° Capacidades de bases de datos inteligentes: in-memory, soporte de memoria persistente, tempbd
+optimizado para memoria
+° Cifrado de datos y cumplimiento normativo: Su sistema de protección, supervisión y clasificación
+de datos la han convertido durante 9 años en una de las principales plataformas más seguras según
+la base de datos del National Institute os Standars and Technology.
+° BI móvil y escalabilidad: Permitiendo integrar fácilmente tus sistemas de gestión de bases de
+datos con cualquier dispositivo y servicios de Azure para obtener mejor rendimiento y capacidad
+de análisis sobre los datos.
