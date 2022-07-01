@@ -10,52 +10,76 @@ Ejemplifica los Gestores de Bases de Datos según el tipo de BD.
 
 
  # Bases de Datos Relacionales
-
-
-
+ 
+ ![imagen](https://user-images.githubusercontent.com/101213081/176790524-11d47d90-ab96-427c-b59e-22863960f285.png)
+ 
+ 
 Microsoft Access ( relacional )
 
-Es una aplicación de base de datos relacional  incluida en el Microsoft Office Suite que permite a los usuarios introducir, gestionar y ejecutar imformes a mayor escala, es más adecuada para quienes necesitan organizar rápidamente una gran cantidad de datos. Se encuentra en algún lugar entre Excel, que es ideal para individuos con un pequeño almacenamiento de datos y los servidores SQL, que son necesarios para equipos más grandes y corporativos.
-Con la ayuda de Microsoft Access, los usuarios pueden gestionar eficazmente la información importante almacenándola convenientemente para futuras referencias,informes y análisis. Como su nombre lo indica, los usuarios tendrán acceso a la información organizada en su base de datos con un esfuerzo mínimo.
-  ** CARACTERÍSTICAS DE MICROSOFT ACCESS
+ * Es una aplicación de base de datos relacional  incluida en el Microsoft Office Suite que permite a los usuarios introducir, gestionar y ejecutar imformes a mayor escala, es más adecuada para quienes necesitan organizar rápidamente una gran cantidad de datos. Se encuentra en algún lugar entre Excel, que es ideal para individuos con un pequeño almacenamiento de datos y los servidores SQL, que son necesarios para equipos más grandes y corporativos.
+
+ * Con la ayuda de Microsoft Access, los usuarios pueden gestionar eficazmente la información importante almacenándola convenientemente para futuras referencias,informes y análisis. Como su nombre lo indica, los usuarios tendrán acceso a la información organizada en su base de datos con un esfuerzo mínimo.
+ 
+   * CARACTERÍSTICAS DE MICROSOFT ACCESS
+  
   ° Ideal para usuarios individuales y equipos pequeños
+  
   ° Más fácil de entender y utilizar que la base de datos cliente-servidor
+  
   ° Importación y exportación a otras aplicaciones de Microsoft Office y otras aplicaciones
+  
   ° Plantillas listas para que los usuarios habituales creen y publiquen datos 
+  
   ° Permite construir y publicar bases de datos en la Web sin esfuerzo 
+  
   ° Una funcion fácil de usar 'Tell Me' para asistencia
+  
   ° Permite a los desarrolladores crear soluciones personalizadas utilizando el código VBA
+  
   ° Opción de oculat/mostrar la cinta
+  
   ° Permite a los usuarios ver los informes Elimina los informes adicionales
+  
   ° Permite la salida de informes en formato PDF
+  ##
   
-  ![imagen](https://user-images.githubusercontent.com/101213081/176790524-11d47d90-ab96-427c-b59e-22863960f285.png)
+   ![server](https://user-images.githubusercontent.com/101213081/176969673-336197e2-0439-45e2-a5c5-77f0bbaec4b4.png)
   
- Microsoft SQL Server (relacional)
-Es uno de los principales sistemas de gestión de bases de datos relacional del mercado que
+  
+  Microsoft SQL Server (relacional)
+ 
+  * Es uno de los principales sistemas de gestión de bases de datos relacional del mercado que
 presta servicio a un amplio abanico de aplicaciones de software destinadas a la inteligencia
-empresarial y análisis sobre entornos corporativos. Basada en el lenguaje Transact-SQL,
-incorpora un conjunto de extensiones de programación propias de lenguaje estándar y su
-aplicación está disponible para usarse tanto a nivel on premise o bajo una modalidad cloud
-Es ideal para almacenar toda la información deseada en bases de datos relacionales, como
-también para administrar dichos datos sin complicaciones, gracias a su interfaz visual y a las
-opciones y herramientas que tiene. Es algo vital, especialmente en webs que tienen la opción
-de registrar usuarios para que inicien sesión.
-Su componente principal está compuesto por un motor relacional encargado del
-procesamiento de comandos, consultas, así como del almacenamiento de archivos, bb.dd.,
-tablas y búferes de datos. Sus niveles secundarios están destinados a la gestión de la
-memoria, programación y administración de las interacciones de solicitud y respuesta con los
-servidores que alojan las bases de datos.
-** caracteristicas
+empresarial y análisis sobre entornos corporativos. 
+ * Basada en el lenguaje Transact-SQL,
+ incorpora un conjunto de extensiones de programación propias de lenguaje estándar y su
+ aplicación está disponible para usarse tanto a nivel on premise o bajo una modalidad cloud
+ Es ideal para almacenar toda la información deseada en bases de datos relacionales, como
+ también para administrar dichos datos sin complicaciones, gracias a su interfaz visual y a las
+  opciones y herramientas que tiene.
+  * Es algo vital, especialmente en webs que tienen la opción
+ de registrar usuarios para que inicien sesión.
+ 
+  * Su componente principal está compuesto por un motor relacional encargado del
+ procesamiento de comandos, consultas, así como del almacenamiento de archivos, bb.dd.,
+ tablas y búferes de datos. Sus niveles secundarios están destinados a la gestión de la
+ memoria, programación y administración de las interacciones de solicitud y respuesta con los
+ servidores que alojan las bases de datos.
+ 
+    ° caracteristicas
+  
 ° Inteligencia en todos sus datos con clústeres de Big Data: pudiendo consultar todo tu patrimonio
 de datos desde SQL Serve hasta Oracle sin necesidad de replicarlos.
-°  Elección de Lenguaje y Plataforma: Desde Windows o Linux, hasta implementaciones con
-Kubernetes
+
+°  Elección de Lenguaje y Plataforma: Desde Windows o Linux, hasta implementaciones con Kubernetes.
+
 ° Capacidades de bases de datos inteligentes: in-memory, soporte de memoria persistente, tempbd
-optimizado para memoria
+  optimizado para memoria.
+
 ° Cifrado de datos y cumplimiento normativo: Su sistema de protección, supervisión y clasificación
-de datos la han convertido durante 9 años en una de las principales plataformas más seguras según
-la base de datos del National Institute os Standars and Technology.
+ de datos la han convertido durante 9 años en una de las principales plataformas más seguras según
+ la base de datos del National Institute os Standars and Technology.
+ 
 ° BI móvil y escalabilidad: Permitiendo integrar fácilmente tus sistemas de gestión de bases de
 datos con cualquier dispositivo y servicios de Azure para obtener mejor rendimiento y capacidad
 de análisis sobre los datos.
