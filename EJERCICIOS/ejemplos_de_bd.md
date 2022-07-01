@@ -59,25 +59,29 @@ la base de datos del National Institute os Standars and Technology.
 ° BI móvil y escalabilidad: Permitiendo integrar fácilmente tus sistemas de gestión de bases de
 datos con cualquier dispositivo y servicios de Azure para obtener mejor rendimiento y capacidad
 de análisis sobre los datos.
+##
 
-![imagen](https://user-images.githubusercontent.com/101213081/176790115-7fb56870-0b4c-41f3-88cc-d73ab1a53f82.png)
+![mysql](https://user-images.githubusercontent.com/101213081/176966009-d6557fd9-00f8-452c-a2f5-316e235c5307.png)
 
-My SQL
+  MySQL
+ * MySQL es un sistema de administración de base de datos (DBMS -Database Management System) desarrollado por Oracle el cual ofrece una amplia gama de ventajas para todo el tema de base de datos relacionales. MySQL ha sido escrito en C y C++ y permite la interoperabilidad con lenguajes de programación como Java, PHP y Pearl lo que lo convierte en una plataforma muy práctica y útil para la correcta administración de las bases de datos. 
+
+ * Al gestionar bases de datos en entornos Linux una de las plataformas más usadas a nivel mundial por su seguridad, alcance y robustez es    MySQL.
+ * MySQL incluye un comando que nos brinda la posibilidad de actualizar diversos parámetros asociados a la seguridad de la aplicación.
 
 Es un gestor de bases de datos, y actualmente uno de los más usados y reconocidos del mercado.
 Especialmente en lo que se refiere a desarrollo web, está clasificada como la base de datos de código
 abierto más popular del mundo.
-
 Fue desarrollada inicialmente por MySQL AB, luego adquirida por Sun Microsystems y luego
 posteriormente por Oracle Coporation en 2010.
-
 Está desarrollado mayormente por una mezcla de los lenguajes C y C++. Es uno de los cuatro
 componentes del paquete de desarrollo LAMP, para Linux (corre perfecto en cualquier distro Linux, y se
 hizo muy popular al hacerlo en RedHat Enterprise), y WAMP, para Windows Server.
 Es un SGBD multihilo y multiusuario utilizado en la gran parte de las páginas web actuales. Además es el más usado en aplicaciones creadas como software libre.
+ ##
 
 
-![imagen](https://user-images.githubusercontent.com/101213081/176791520-ee28839b-7a6b-4559-9fb7-620bb78a2d72.png)
+
 
 
  ° MariaDB Este SGBD es una derivación de MySQL que cuenta con la mayoría de características de este e incluye varias extensiones.
