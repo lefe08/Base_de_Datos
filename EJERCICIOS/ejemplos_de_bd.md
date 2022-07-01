@@ -107,11 +107,70 @@ Es un SGBD multihilo y multiusuario utilizado en la gran parte de las páginas w
 
 
 
+  ![image](https://user-images.githubusercontent.com/101213081/176975839-68aadbff-126b-4c4e-944a-30cf72cb733c.png)
+  
+  MariaDB
+ 
+  *  MariaDB es un sistema de base de datos relacional de código abierto construido por los desarrolladores iniciales de MySQL.
+     Es conocido popularmente como una alternativa para MySQL. En realidad, la base de datos está destinada a ser un reemplazo directo a largo plazo para MySQL, con la      garantía de permanecer de código abierto.
+  
+  * Este SGBD es una derivación de MySQL que cuenta con la mayoría de características de este e incluye varias extensiones.
+  ° Nace a partir de la adquisición de MySQL por parte de Oracle para seguir la filosofía Open Source y tiene la ventaja de que es totalmente compatible con MySQL.
+   ##
+   
+  
+  
+   
+   
+ 
+  ![image](https://user-images.githubusercontent.com/101213081/176976637-a299bbda-f83c-40aa-979d-df3f53169e2e.png)
+  
 
- ° MariaDB Este SGBD es una derivación de MySQL que cuenta con la mayoría de características de este e incluye varias extensiones.
-Nace a partir de la adquisición de MySQL por parte de Oracle para seguir la filosofía Open Source y tiene la ventaja de que es totalmente compatible con MySQL
- ° SQLite Más que un Sistema Gestor de bases de datos como tal, SQLite es una biblioteca escrita en C que implementa un SGBD y que permite transacciones sin necesidad de un servidor ni configuraciones
- ° Oracle Tradicionamente, Oracle ha sido el SGBD por excelencia para el mundo empresarial, considerado siempre como el más completo y robusto, destacando por:
+
+   
+   SQL Lite
+     
+   * A diferencia de los sistema de gestión de bases de datos cliente-servidor, el motor de SQLite no es un proceso independiente con el que el programa principal se comunica. En lugar de eso, la biblioteca SQLite se enlaza con el programa pasando a ser parte integral del mismo.
+   
+   *  El programa utiliza la funcionalidad de SQLite a través de llamadas simples a subrutinas y funciones. Esto reduce la latencia en el acceso a la base de datos, debido a que las llamadas a funciones son más eficientes que la comunicación entre procesos. El conjunto de la base de datos (definiciones, tablas, índices, y los propios datos), son guardados como un solo fichero estándar en la máquina host. Este diseño simple se logra bloqueando todo el fichero de base de datos al principio de cada transacción
+    
+   * En su versión 3, SQLite permite bases de datos de hasta 2 Terabytes de tamaño, y también permite la inclusión de campos tipo BLOB.
+
+El autor de SQLite ofrece formación, contratos de soporte técnico y características adicionales como compresión y cifrado. 
+
+  °  CARACTERISTICAS
+
+
+ * Software que utiliza SQLite:
+     
+  
+   SQLite es utilizado en un gran variedad de aplicaciones, destacando las siguientes:
+
+Adobe Photoshop Elements utiliza SQLite como motor de base de datos en su última versión del producto (la 6.0) en sustitución del Microsoft Access, utilizado en las versiones anteriores.5​
+Clementine usa SQLite para guardar su colección de datos por defecto.
+Kexi usa SQLite como un motor de base de datos interno por defecto.
+Mozilla Firefox usa SQLite para almacenar, entre otros, las cookies, los favoritos, el historial y las direcciones de red válidas.
+##
+
+ ![image](https://user-images.githubusercontent.com/101213081/176977920-89dab0d6-7c4b-4dd8-b728-e01c4ebf1f6a.png)
+
+  
+  Oracle
+  
+   * Oracle Database es un tipo sistema de gestión de base de datos de tipo objeto-relacional (ORDBMS, por sus iniciales   en inglés de Object-Relacional Data Base Management System), desarrollado por Oracle corporation.
+  
+  *  Oracle es la primera compañía que desarrolla e implementa software para bases de datos cien por ciento activo por internet atreves de su amplia línea de productos: Base de datos, Aplicaciones comerciales y herramientas de desarrollo de aplicaciones además de un soporte de decisiones.
+
+
+
+   ° CARACTERISTICAS
+  
+  *  La base de datos de Oracle 10G Standar Edition es compatible con medianas industrias. Esto incluye Real Aplication       Clúster, para crear protección en contra de fallos de hardware. Es muy sencillo de instalar y configurar, y viene con     su propio software de clustering.
+
+  *  La base de datos Oracle 10g Standar Edition, proporciona una rápida instalación sin contratiempos tanto en un único      servidor como en un ambiente de clúster.
+
+##
+  
  ° PostgreSQL Este sistema gestor de base de datos relacional está orientado a objetos y es libre, publicado bajo la licencia BS
  
  
