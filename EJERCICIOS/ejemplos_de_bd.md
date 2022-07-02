@@ -16,12 +16,28 @@ Ejemplifica los Gestores de Bases de Datos según el tipo de BD.
  
 Microsoft Access ( relacional )
 
+
+ * creador
+ 
+   Microsoft
+   
+ * Fecha de la primera versión pública
+ 
+   1992
+ 
+ * Última versión estable
+ 
+   2013
+ * Licencia de software
+ 
+   Propietario
+
  * Es una aplicación de base de datos relacional  incluida en el Microsoft Office Suite que permite a los usuarios introducir, gestionar y ejecutar imformes a mayor escala, es más adecuada para quienes necesitan organizar rápidamente una gran cantidad de datos. Se encuentra en algún lugar entre Excel, que es ideal para individuos con un pequeño almacenamiento de datos y los servidores SQL, que son necesarios para equipos más grandes y corporativos.
 
  * Con la ayuda de Microsoft Access, los usuarios pueden gestionar eficazmente la información importante almacenándola convenientemente para futuras referencias,informes y análisis. Como su nombre lo indica, los usuarios tendrán acceso a la información organizada en su base de datos con un esfuerzo mínimo.
  
    * CARACTERÍSTICAS DE MICROSOFT ACCESS
-  
+     
   ° Ideal para usuarios individuales y equipos pequeños
   
   ° Más fácil de entender y utilizar que la base de datos cliente-servidor
@@ -47,6 +63,15 @@ Microsoft Access ( relacional )
   
   
   Microsoft SQL Server (relacional)
+ 
+ * creador
+
+ * Fecha de la primera versión pública
+ 
+ 
+ * Última versión estable
+
+ * Licencia de software
  
   * Es uno de los principales sistemas de gestión de bases de datos relacional del mercado que
 presta servicio a un amplio abanico de aplicaciones de software destinadas a la inteligencia
@@ -88,6 +113,16 @@ de análisis sobre los datos.
 ![mysql](https://user-images.githubusercontent.com/101213081/176966009-d6557fd9-00f8-452c-a2f5-316e235c5307.png)
 
   MySQL
+  
+  * creador
+
+ * Fecha de la primera versión pública
+ 
+ 
+ * Última versión estable
+
+ * Licencia de software
+ 
  * MySQL es un sistema de administración de base de datos (DBMS -Database Management System) desarrollado por Oracle el cual ofrece una amplia gama de ventajas para todo el tema de base de datos relacionales. MySQL ha sido escrito en C y C++ y permite la interoperabilidad con lenguajes de programación como Java, PHP y Pearl lo que lo convierte en una plataforma muy práctica y útil para la correcta administración de las bases de datos. 
 
  * Al gestionar bases de datos en entornos Linux una de las plataformas más usadas a nivel mundial por su seguridad, alcance y robustez es    MySQL.
@@ -110,6 +145,16 @@ Es un SGBD multihilo y multiusuario utilizado en la gran parte de las páginas w
   ![image](https://user-images.githubusercontent.com/101213081/176975839-68aadbff-126b-4c4e-944a-30cf72cb733c.png)
   
   MariaDB
+  
+  * creador
+
+ * Fecha de la primera versión pública
+ 
+ 
+ * Última versión estable
+
+ * Licencia de software
+ 
  
   *  MariaDB es un sistema de base de datos relacional de código abierto construido por los desarrolladores iniciales de MySQL.
      Es conocido popularmente como una alternativa para MySQL. En realidad, la base de datos está destinada a ser un reemplazo directo a largo plazo para MySQL, con la      garantía de permanecer de código abierto.
@@ -125,10 +170,21 @@ Es un SGBD multihilo y multiusuario utilizado en la gran parte de las páginas w
  
   ![image](https://user-images.githubusercontent.com/101213081/176976637-a299bbda-f83c-40aa-979d-df3f53169e2e.png)
   
+ SQL Lite
+ 
+ * creador
 
+ * Fecha de la primera versión pública
+ 
+ 
+ * Última versión estable
 
-   
-   SQL Lite
+ * Licencia de software
+ 
+ 
+ 
+ 
+ 
      
    * A diferencia de los sistema de gestión de bases de datos cliente-servidor, el motor de SQLite no es un proceso independiente con el que el programa principal se comunica. En lugar de eso, la biblioteca SQLite se enlaza con el programa pasando a ser parte integral del mismo.
    
@@ -146,7 +202,7 @@ El autor de SQLite ofrece formación, contratos de soporte técnico y caracterí
   
    SQLite es utilizado en un gran variedad de aplicaciones, destacando las siguientes:
 
-Adobe Photoshop Elements utiliza SQLite como motor de base de datos en su última versión del producto (la 6.0) en sustitución del Microsoft Access, utilizado en las versiones anteriores.5​
+Adobe Photoshop Elements utiliza SQLite como motor de base de datos en su última versión del producto (la 6.0) en sustitución del Microsoft Access, utilizado en las versiones anteriores.
 Clementine usa SQLite para guardar su colección de datos por defecto.
 Kexi usa SQLite como un motor de base de datos interno por defecto.
 Mozilla Firefox usa SQLite para almacenar, entre otros, las cookies, los favoritos, el historial y las direcciones de red válidas.
@@ -154,9 +210,27 @@ Mozilla Firefox usa SQLite para almacenar, entre otros, las cookies, los favorit
 
  ![image](https://user-images.githubusercontent.com/101213081/176977920-89dab0d6-7c4b-4dd8-b728-e01c4ebf1f6a.png)
 
-  
-  Oracle
-  
+   ° Oracle
+    
+ * creador 
+ 
+   Oracle Corporation
+
+ * Fecha de la primera versión pública
+ 
+   1977
+ 
+ * Última versión estable
+ 
+   11g Release 2
+ 
+ * Licencia de software
+ 
+   Propietario
+    
+
+   
+
    * Oracle Database es un tipo sistema de gestión de base de datos de tipo objeto-relacional (ORDBMS, por sus iniciales   en inglés de Object-Relacional Data Base Management System), desarrollado por Oracle corporation.
   
   *  Oracle es la primera compañía que desarrolla e implementa software para bases de datos cien por ciento activo por internet atreves de su amplia línea de productos: Base de datos, Aplicaciones comerciales y herramientas de desarrollo de aplicaciones además de un soporte de decisiones.
@@ -169,13 +243,49 @@ Mozilla Firefox usa SQLite para almacenar, entre otros, las cookies, los favorit
 
   *  La base de datos Oracle 10g Standar Edition, proporciona una rápida instalación sin contratiempos tanto en un único      servidor como en un ambiente de clúster.
 
-
+  ##
  ![image](https://user-images.githubusercontent.com/101213081/177009141-748d6bfd-565e-46e8-a6d7-6096304a7d1b.png)
 
-  ° PostgreSQL ( relacional)
+  ° PostgreSQL ( relacional) 
+ * Creador
+ 
+   PostgreSQL Global Development Group 
+ 
+ * Fecha de la primera versión pública
+ 
+   Junio de 1989 
+   
+ * Última versión estable
+ 
+   9.0 
+   
+ * Licencia de software
+ 
+   Licencia BSD
+
   
- *  PostgreSQL nació de un proyecto universitario y tiene una comunidad dedicada y bien organizada que trabaja en él, con muchos colaboradores diferentes en todo el      mundo. También similar a Linux, tiene una variedad de distribuidores e ISV que ofrecen extensiones, funcionalidad adicional y soporte, lo que lo convierte en un ecosistema cada vez más diverso que aborda las necesidades de algunos de los bancos más grandes para las empresas más pequeña
- Este sistema gestor de base de datos relacional está orientado a objetos y es libre, publicado bajo la licencia BS
+ * PostgreSQL, o también conocido como Postgres, es un sistema de gestión de bases de datos relacionales (RDBMS) libre y de código abierto (Open Source) que hace énfasis en la extensibilidad y el cumplimiento de SQL.
+
+   *  Es gratuito y libre, además de que hoy nos ofrece una gran cantidad de opciones avanzadas. De hecho, es considerado el motor de base de datos más avanzado en la      actualidad. 
+   
+ * PostgreSQL  está presente en todas las industrias. Desde automóviles a agua, de e-commerce a arqueología, PostgreSQL está presente en todos lados y su uso va en        aumento. A continuación algunos ejemplos de usos reales en entornos productivos.
+ 
+*  PostgreSQL nació de un proyecto universitario y tiene una comunidad dedicada y bien organizada que trabaja en él, con muchos colaboradores diferentes en todo el      mundo. También similar a Linux, tiene una variedad de distribuidores e ISV que ofrecen extensiones, funcionalidad adicional y soporte, lo que lo convierte en un ecosistema cada vez más diverso que aborda las necesidades de algunos de los bancos más grandes para las empresas más pequeña
+ Este sistema gestor de base de datos relacional está orientado a objetos y es libre, publicado bajo la licencia BS.
+ En Postgres no se requiere usar bloqueos de lectura al realizar una transacción lo que nos brinda una mayor escalabilidad. También PostgreSQL tiene Hot-Standby. Este permite que los clientes hagan búsquedas (sólo de lectura) en los servidores mientras están en modo de recuperación o espera. Así podemos hacer tareas de mantenimiento o recuperación sin bloquear completamente el sistema.
+ 
+
+* PostgreSQL aporta mucha flexibilidad a nuestros proyectos. Por ejemplo, nos permite definir funciones personalizadas por medio de varios lenguajes. Algunos son:
+
+
+PL/pgSQL
+PL/Tcl
+PL/Perl
+PL/Python
+PL/PHP
+PL/Ruby
+PL/Java
+
  
  ##
  
