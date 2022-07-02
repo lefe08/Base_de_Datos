@@ -307,15 +307,64 @@ PL/Java
  
  # Base de datos no relacionales
  
- ° MongoDB Estamos ante el Sistema Gestor de Bases de Datos no relacionales (SGBD NoSQL) más popular y utilizado actualmente.
+ 
+  ![image](https://user-images.githubusercontent.com/101213081/177016033-b7dcee4f-dd43-4ef2-81e1-938dde3aabd6.png)
+
+ ° MongoDB
+ 
+  
+ 
+ Estamos ante el Sistema Gestor de Bases de Datos no relacionales (SGBD NoSQL) más popular y utilizado actualmente.
    MongoDB es un SBGD NoSQL orientado a ficheros que almacena la información en estructuras BSON con un esquema dinámico que permite su facilidad de integración.
    
- ° Redis Redis está basado en el almacenamiento clave-valor. Podríamos verlo como un vector enorme que almacena todo tipo de datos, desde cadenas, hashses, listas, etc.
+   
+   
+   ##
+   
+   
+   ![image](https://user-images.githubusercontent.com/101213081/177016222-d2e3e2fb-20e0-4cd3-aff8-b5e0aea8ba19.png)
+
+ ° Redis 
+ 
+ Redis está basado en el almacenamiento clave-valor. Podríamos verlo como un vector enorme que almacena todo tipo de datos, desde cadenas, hashses, listas, etc.
 El principal uso de este SGBD es para el almacenamiento en memoria caché y la administración de sesiones.
 Empresas como Google, Facebook, eBay, Cisco o Adobe utilizan MongoDB como Sistema Gestor de Bases de datos
+  ##
+  
 
-° Cassandra Al igual que Redis, Cassandra también utiliza almacenamiento clave-valor. Es un SGBD NoSQL distribuido y masivamente escalable.
-° 
+ ![image](https://user-images.githubusercontent.com/101213081/177016111-619c2523-152b-43e2-b00f-594a7b45e75e.png)
+
+
+   ° Cassandra 
+   
+ *  Apache Cassandra fue inicialmente desarrollada en Facebook para impulsar las búsqueda en la bandeja de entrada por Avinash Lakshman (uno de los autores de Amazon's Dynamo) y Prashant Malik. Fue lanzada como un proyecto open source de Google code en julio de 2008. En marzo de 2009, se transformó en un proyecto de Apache Incubator. El 17 de febrero de 2010 se graduó como un proyecto de alto nivel.
+
+ * Apache Cassandra se trata de un software NoSQL distribuido y basado en un modelo de almacenamiento de «clave-valor», de código abierto que está escrita en Java. Permite grandes volúmenes de datos en forma distribuida. Por ejemplo, lo usa Twitter para su plataforma. 
+ 
+ * Su objetivo principal es la escalabilidad lineal y la disponibilidad. La arquitectura distribudores de Cassandra está basada en una serie de nodos iguales que se comunican con un protocolo P2P con lo que la redundancia es máxima. Esta soportada por la Apache Software Fundation.
+
+ * Cassandra ofrece soporte robusto para múltiples Centros de datos,1 con replicación asincrónica sin necesidad de un servidor maestro, lo que permiten operaciones de baja latencia para todos los clientes.
+
+ * Cassandra también ofrece un gran rendimiento. En 2012, investigadores de la Universidad de Toronto que estudian los sistemas NoSQL concluyeron que "En términos de escalabilidad, hay un claro ganador a través de nuestros experimentos. Cassandra logra el más alto rendimiento para el número máximo de nodos en todos los experimentos", aunque "esto tiene como precio una alta latencia de escritura y lectura".
+
+El modelo de datos de Cassandra consiste en particionar las filas, que son reorganizadas en tablas . Las claves primarias de cada tabla tiene un primer componente que es la clave de partición. Dentro de una partición, las filas son agrupadas por las columnas restantes de la clave.   Las demás columnas pueden ser indexadas por separado de la clave primaria.
+
+En las versiones iniciales utilizaba un API propia para poder acceder a la base de datos. En los últimos tiempos están apostando por un lenguaje denominado CQL (Cassandra Query Language, no confundir con Contextual Query Language) que posee una sintaxis similar a SQL aunque con muchas menos funcionalidades. Esto hace que iniciarse en el uso de la misma sea más sencillo. Permite acceder en Java desde JDBC.
+ 
+ Licenciamiento y Soporte
+ 
+ Apache Cassandra es un proyecto de Apache Software Foundation, por lo que tiene una Apache License (version 2.0).
+ 
+ * usuarios conocidos
+ 
+     WalmartLabs
+     
+     Facebook
+     
+     Netflix 
+     
+     Twitter
+     
 
 
  ° Otros Sistemas Gestores de bases de datos no relacionales muy utilizados son:
