@@ -11,8 +11,8 @@ Ejemplifica los Gestores de Bases de Datos según el tipo de BD.
 
  # Bases de Datos Relacionales
  
- ![image](https://user-images.githubusercontent.com/101213081/177017961-39660857-5414-4fe3-b3c9-b9f76a554bd4.png)
-
+ ![imagen](https://user-images.githubusercontent.com/101213081/176790524-11d47d90-ab96-427c-b59e-22863960f285.png)
+ 
  
 Microsoft Access ( relacional )
 
