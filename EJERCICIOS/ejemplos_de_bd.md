@@ -310,15 +310,15 @@ PL/Java
  
   ![image](https://user-images.githubusercontent.com/101213081/177016033-b7dcee4f-dd43-4ef2-81e1-938dde3aabd6.png)
 
- ° MongoDB
- 
+   ° MongoDB
+   MongoDB (del inglés humongous, "enorme") es un sistema de base de datos NoSQL, orientado a documentos y de código abierto
   
- 
- Estamos ante el Sistema Gestor de Bases de Datos no relacionales (SGBD NoSQL) más popular y utilizado actualmente.
-   MongoDB es un SBGD NoSQL orientado a ficheros que almacena la información en estructuras BSON con un esquema dinámico que permite su facilidad de integración.
-   
-   
-   
+  
+  * En lugar de guardar los datos en tablas, tal y como se hace en las bases de datos relacionales, MongoDB guarda estructuras de datos       BSON (una especificación similar a JSON) con un esquema dinámico, haciendo que la integración de los datos en ciertas aplicaciones sea     más fácil y rápida.
+
+  * MongoDB es una base de datos adecuada para su uso en producción y con múltiples funcionalidades. Esta base de datos se utiliza mucho en     la industria, contando con implantaciones en empresas como MTV Network, Craiglist, Foursquare.
+
+  * MongoDB proporciona un framework de agregación que permite realizar operaciones similares al "GROUP BY" de SQL. El framework de           agregación está construido como un pipeline en el que los datos van pasando a través de diferentes etapas en los cuales estos datos son     modificados, agregados, filtrados y formateados hasta obtener el resultado deseado. Todo este procesado es capaz de utilizar índices si     existieran y se produce en memoria. Asimismo, MongoDB proporciona una función MapReduce que puede ser utilizada para el procesamiento por   lotes de datos y operaciones de agregación
    ##
    
    
@@ -370,7 +370,7 @@ En las versiones iniciales utilizaba un API propia para poder acceder a la base 
      Netflix 
      
      Twitter
-     
+   ##  
 
 
  ° Otros Sistemas Gestores de bases de datos no relacionales muy utilizados son:
