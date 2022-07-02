@@ -183,13 +183,19 @@ Es un SGBD multihilo y multiusuario utilizado en la gran parte de las páginas w
  SQL Lite
  
  * creador
-
- * Fecha de la primera versión pública
  
+   D. Richard Hipp 
+   
+ * Fecha de la primera versión pública
+  
+   17 de agosto de 2000
  
  * Última versión estable
-
+ 
+   3.6.16
  * Licencia de software
+ 
+   Dominio público
  
  
  
