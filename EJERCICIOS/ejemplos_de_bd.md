@@ -65,14 +65,18 @@ Microsoft Access ( relacional )
   Microsoft SQL Server (relacional)
  
  * creador
-
+ 
+   Microsoft
  * Fecha de la primera versión pública
  
+   1989
  
  * Última versión estable
-
+ 
+   2014
  * Licencia de software
  
+   Propietario
   * Es uno de los principales sistemas de gestión de bases de datos relacional del mercado que
 presta servicio a un amplio abanico de aplicaciones de software destinadas a la inteligencia
 empresarial y análisis sobre entornos corporativos. 
@@ -115,13 +119,19 @@ de análisis sobre los datos.
   MySQL
   
   * creador
-
+  
+    MySQL AB
  * Fecha de la primera versión pública
  
+   Noviembre de 1996
  
  * Última versión estable
-
+ 
+   5.0
+   
  * Licencia de software
+ 
+   GPL o propietario
  
  * MySQL es un sistema de administración de base de datos (DBMS -Database Management System) desarrollado por Oracle el cual ofrece una amplia gama de ventajas para todo el tema de base de datos relacionales. MySQL ha sido escrito en C y C++ y permite la interoperabilidad con lenguajes de programación como Java, PHP y Pearl lo que lo convierte en una plataforma muy práctica y útil para la correcta administración de las bases de datos. 
 
