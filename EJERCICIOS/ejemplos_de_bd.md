@@ -323,12 +323,18 @@ PL/Java
    
    
    ![image](https://user-images.githubusercontent.com/101213081/177016222-d2e3e2fb-20e0-4cd3-aff8-b5e0aea8ba19.png)
-
+   
  ° Redis 
  
- Redis está basado en el almacenamiento clave-valor. Podríamos verlo como un vector enorme que almacena todo tipo de datos, desde cadenas, hashses, listas, etc.
-El principal uso de este SGBD es para el almacenamiento en memoria caché y la administración de sesiones.
-Empresas como Google, Facebook, eBay, Cisco o Adobe utilizan MongoDB como Sistema Gestor de Bases de datos
+* Redis es un motor de base de datos en memoria, basado en el almacenamiento en tablas de hashes (clave/valor) pero que opcionalmente puede ser usada como una base de datos durable o persistente. Está escrito en ANSI C por Salvatore Sanfilippo, quien es patrocinado por Redis Labs. Está liberado bajo licencia BSD por lo que es considerado software de código abierto.
+   
+* Redis está basado en el almacenamiento clave-valor. Podríamos verlo como un vector enorme que almacena todo tipo de datos, desde cadenas,   hashses, listas, etc.
+
+* El modelo de datos de Redis se basa en la estructura de datos del tipo diccionario o tabla de hashes que relaciona una llave a un contenido almacenado en un índice. La principal diferencia entre Redis y otros sistemas similares es que los valores no están limitados a ser de tipo string
+
+* Redis normalmente guarda la información en la memoria RAM, pero en versiones superiores a la 2.4 se puede configurar para utilizar Memoria virtual pero ahora esto está desactualizado. Se puede hacer que los datos sean persistentes de dos formas, una es hacer snapshots (capturas), aunque no sería realmente durable ya que estos son asíncronos al transferir la memoria al disco cada cierto tiempo.
+
+
   ##
   
 
