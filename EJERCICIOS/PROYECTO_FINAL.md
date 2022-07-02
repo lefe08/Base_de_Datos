@@ -28,5 +28,9 @@ precio y categoría.
 ● Pueden existir varias categorías y para cada categoría hay un nombre y
 un código de categoría único.
 
-● Una pieza sólo puede pertenecer a una categoría.![imagen](https://user-images.githubusercontent.com/101213081/173208763-5bdd982d-abd3-47f2-8d07-7f66a51a3e46.png)
+● Una pieza sólo puede pertenecer a una categoría.
+
+ ![image](https://user-images.githubusercontent.com/101213081/177018843-b24332d9-5b57-4171-9843-a75179a41cd9.png)
+
+
 
