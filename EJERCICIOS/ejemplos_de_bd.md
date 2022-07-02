@@ -172,7 +172,7 @@ Mozilla Firefox usa SQLite para almacenar, entre otros, las cookies, los favorit
 
  ![image](https://user-images.githubusercontent.com/101213081/177009141-748d6bfd-565e-46e8-a6d7-6096304a7d1b.png)
 
-  ° PostgreSQL
+  ° PostgreSQL ( relacional)
   
  *  PostgreSQL nació de un proyecto universitario y tiene una comunidad dedicada y bien organizada que trabaja en él, con muchos colaboradores diferentes en todo el      mundo. También similar a Linux, tiene una variedad de distribuidores e ISV que ofrecen extensiones, funcionalidad adicional y soporte, lo que lo convierte en un ecosistema cada vez más diverso que aborda las necesidades de algunos de los bancos más grandes para las empresas más pequeña
  Este sistema gestor de base de datos relacional está orientado a objetos y es libre, publicado bajo la licencia BS
