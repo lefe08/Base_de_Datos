@@ -6,19 +6,19 @@ Ejercicio:
 1. Menciona los comandos DMl: (valor .85)
 
 
-     *  select
-     *  Insert
-     *  Update
-     *  Delete
+     *  SELECT
+     *  INSERT
+     *  UPDATE
+     *  DELETE
         
 2. Menciona 3 tipos de datos que existen: (valor .85)
-     * Char
-     * Varchar
-     * Int
+     * CHAR
+     * VARCHAR
+     * INT
 
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
      * DELETE: Elimina Una serie de filas 
-     * TRUNCATE: Elimina todo
+     * TRUNCATE: Elimina todo  la tabla siempre y cuando no tenga alguna tabla asociada.
        
 4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
 
@@ -33,6 +33,8 @@ Ejercicio:
       * VARCHAR: Tiene una longitud maxima de caracteres
 
 6. Defina brevemente el significado de las siglas SQL(valor .85)
+
+  * Es un lenguaje estandar e interactivo de acceso a base de datos relacionales que permite especificar diversos tipos de       operaciones en ellas
 
 
     Structured Query Language o lenguaje de consulta estructurado
