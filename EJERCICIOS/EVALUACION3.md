@@ -9,6 +9,9 @@ Ejercicio:
 
 1. ¿Qué es un DataWarehouse?(valor 2)
 
+
+   Es un almacen de datos único y centralizado que agrega y combina información de diferentes fuentes
+
 2. Realiza un diseño del modelo en estrella (valor 2)
 
     
