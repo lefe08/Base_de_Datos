@@ -6,35 +6,38 @@ Ejercicio:
 1. Menciona los comandos DMl: (valor .85)
 
 
-     *  SELECT
-     *  INSERT
-     *  UPDATE
-     *  DELETE
+  *  SELECT
+  *  INSERT
+  *  UPDATE
+  *  DELETE
         
 2. Menciona 3 tipos de datos que existen: (valor .85)
-     * CHAR
-     * VARCHAR
-     * INT
+
+
+  * CHAR
+  * VARCHAR
+  * INT
 
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
-     * DELETE: Elimina Una serie de filas 
-     * TRUNCATE: Elimina todo  la tabla siempre y cuando no tenga alguna tabla asociada.
+
+
+  * DELETE: Elimina Una serie de filas 
+  * TRUNCATE: Elimina todo  la tabla siempre y cuando no tenga alguna tabla asociada.
        
 4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
 
 
-   Para de limitar dato  y no se repiten
+ * Para de limitar dato  y no se repiten
       
       
 5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
 
-
-      * CHAR: Tiene una longitud fuji de caracteres
-      * VARCHAR: Tiene una longitud maxima de caracteres
+ * CHAR: Tiene una longitud fuji de caracteres
+ * VARCHAR: Tiene una longitud maxima de caracteres
 
 6. Defina brevemente el significado de las siglas SQL(valor .85)
 
-  * Es un lenguaje estandar e interactivo de acceso a base de datos relacionales que permite especificar diversos tipos de       operaciones en ellas
+ * Es un lenguaje estandar e interactivo de acceso a base de datos relacionales que permite especificar diversos       tipos de operaciones en ellas.
 
 
     Structured Query Language o lenguaje de consulta estructurado
@@ -42,7 +45,12 @@ Ejercicio:
 7. Defina brevemente qué es MySQL WorkBench (valor .85)
 
 
-   Es un editor visual de base de datos MySQL que cuenta con el respaldo oficial de MySQL
+  *  Es un editor visual de base de datos MySQL.
+
+  *  La  herramienta se caracteriza por su editor de diagramas.
+
+  *  Si deseas analizar visualmente el esquema podrás exportarlo en formato, imagen o PDF o bien generar un script        SQL CREATE o ALTER.
+   
 ## Práctica 5.
 ### Gestores de base de datos
 
