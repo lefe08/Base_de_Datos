@@ -39,7 +39,10 @@ Una vez creada la tabla escriba dos triggers con las siguientes características
   
   o Se ejecuta antes de una operación de actualización.
   
-  o Se ingresa la leyenda 'se modifico un regisstro'
+  o Se ingresa la leyenda  se modifico un registro.
+  
+  
+  
   
 Una vez creados los triggers escribe varias sentencias de inserción y actualización
 sobre la tabla alumnos y verifica que los triggers se están ejecutando
