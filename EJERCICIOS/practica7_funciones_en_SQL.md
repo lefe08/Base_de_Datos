@@ -14,7 +14,10 @@
   3. Muestra el precio máximo, precio mínimo y precio medio de los productos de cada uno de los fabricantes. El resultado mostrará el nombre del fabricante junto con los      datos que se solicitan. (valor 4.5)
    
   
-  ![image](https://user-images.githubusercontent.com/101213081/177853440-85eff016-7561-4880-b9e6-d6369e9291c1.png)
+   ![image](https://user-images.githubusercontent.com/101213081/177861961-648721d8-88de-4daf-8236-9c9382cd765e.png)
 
    
    https://www.db-fiddle.com/f/3fPed7sejfSoJtPcDwydVV/0
+    
+    
+ 
