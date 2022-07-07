@@ -4,6 +4,10 @@
    
    Funciones en SQL
    
+   
+  1. Calcula el número total de productos que hay en la tabla productos. (valor 4.5)
+   
+   
    ![imagen](https://user-images.githubusercontent.com/101213081/177865962-7f804e8d-fbed-49cd-b571-bfda7e80a1e1.png)
    
    ![imagen](https://user-images.githubusercontent.com/101213081/177866032-2e7e039d-aca7-4cda-9c89-b2f32c6e3c2e.png)
