@@ -28,6 +28,8 @@ Ejercicio:
 1. Calcula el número total de productos que hay en la tabla productos. (valor 4.5)
 
    https://www.db-fiddle.com/f/2qV2kTJFuahXf4bpqyxgwL/0
+   
+   
   ![image](https://user-images.githubusercontent.com/101213081/176955673-fff36c53-af84-4de1-9832-2cc0629d8f34.png)
 
 
@@ -60,5 +62,13 @@ datos que se solicitan. (valor 4.5)
 4. Muestra el nombre de cada fabricante, junto con el precio máximo, precio mínimo,
 precio medio y el número total de productos de los fabricantes que tienen un precio
 medio superior a 200€. Es necesario mostrar el nombre del fabricante. (valor 4.5)
+
+   https://www.db-fiddle.com/f/3fPed7sejfSoJtPcDwydVV/0
+    
+
+  ![imagen](https://user-images.githubusercontent.com/101213081/177860009-2a203a2a-50a8-493d-b1a6-b5e0416cde92.png)
+
+
+  
 
 
