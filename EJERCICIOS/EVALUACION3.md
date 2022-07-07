@@ -9,6 +9,9 @@ Ejercicio:
 
 1. ¿Qué es un DataWarehouse?(valor 2)
 
+  *  Es un tipo de sistema de gestión de datos diseñado para habilitar y dar soporte a
+     las tareas de inteligencia empresarial (BI), especialmente las analíticas.
+
 
    Es un almacen de datos único y centralizado que agrega y combina información de diferentes fuentes
 
