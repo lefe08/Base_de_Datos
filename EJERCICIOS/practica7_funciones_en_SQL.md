@@ -4,6 +4,14 @@
    
    Funciones en SQL
    
+   ![imagen](https://user-images.githubusercontent.com/101213081/177865962-7f804e8d-fbed-49cd-b571-bfda7e80a1e1.png)
+   
+   ![imagen](https://user-images.githubusercontent.com/101213081/177866032-2e7e039d-aca7-4cda-9c89-b2f32c6e3c2e.png)
+   
+   ![imagen](https://user-images.githubusercontent.com/101213081/177866087-ee1c66db-0586-42d6-aa54-c61a86dafb72.png)
+
+
+
  2. Muestra el número total de productos que tiene cada uno de los fabricantes. El listado también debe incluir los fabricantes que no tienen ningún producto. El             resultado mostrará dos columnas, una con el nombre del fabricante y otra con el número de productos que tiene. Ordene el resultado descendentemente por el número de     productos. (valor 4.5)
 
 
