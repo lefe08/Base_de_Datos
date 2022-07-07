@@ -36,7 +36,16 @@ Ejercicio:
 también debe incluir los fabricantes que no tienen ningún producto. El resultado
 mostrará dos columnas, una con el nombre del fabricante y otra con el número de
 productos que tiene. Ordene el resultado descendentemente por el número de
-productos. (valor 4.5)
+productos. (valor 4.5)  
+
+  ![imagen](https://user-images.githubusercontent.com/101213081/177846246-b894b981-5322-456a-a760-4b50866a966a.png)
+  
+  ![imagen](https://user-images.githubusercontent.com/101213081/177846541-0324bbae-6391-4043-8198-b5af654a4b02.png)
+
+  ![imagen](https://user-images.githubusercontent.com/101213081/177847273-8e42cc04-2a02-4f61-af1b-7e0e3d2ec3b2.png)
+
+
+
 
 3. Muestra el precio máximo, precio mínimo y precio medio de los productos de cada
 uno de los fabricantes. El resultado mostrará el nombre del fabricante junto con los
