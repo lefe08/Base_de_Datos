@@ -35,3 +35,5 @@ un código de categoría único.
   https://www.db-fiddle.com/f/gVfnHeDDF1D7N1j8ZVAUS6/0
 
 
+  3
+  ![image](https://user-images.githubusercontent.com/101213081/178052689-f7b62ad7-f6b2-4f67-ae33-d412bdd22c71.png)
