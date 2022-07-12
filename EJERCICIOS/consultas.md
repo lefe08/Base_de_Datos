@@ -46,7 +46,11 @@ There are no results to be displayed.
  ![imagen](https://user-images.githubusercontent.com/101213081/178587270-e8f9f1eb-d7b5-4bbf-b593-69a3a78a9860.png)
 
 
-* Los nombres, apellidos y especialidad de los periodostas
+* Los nombres, apellidos y especialidad de los periodistas
+
+ ![imagen](https://user-images.githubusercontent.com/101213081/178590916-8e88da95-d514-4129-b1c9-11cd938bd7cb.png)
+ 
+ ![imagen](https://user-images.githubusercontent.com/101213081/178591378-8db536ff-36ed-44cc-84b1-8e8c9164073d.png)
 
 
 * Muestra los empleados que estan en x sucursal
