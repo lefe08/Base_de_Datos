@@ -39,6 +39,9 @@ There are no results to be displayed.
 * Los titulos de las revistas
 * Los nombres, apellidos y especialidad de los periodostas
 * Muestra los empleados que estan en x sucursal
+
+ ![imagen](https://user-images.githubusercontent.com/101213081/178567230-bb5fd06c-41bd-4f36-833c-7384b60eae00.png)
+
 * Muestra que periodistas colaboraron en x revista y en que sucursal se publico la revista
 * Mustra que seccion esta en x revista, en que sucursal se imprimio y que empleados estan en esa sucursal.
 
