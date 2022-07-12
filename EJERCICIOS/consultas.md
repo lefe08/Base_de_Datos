@@ -2,6 +2,39 @@ En la BD utilizada en clase realiza las siguientes consultas:
 
 * La tabla empleado
 
+    
+ 
+**Query #1**
+
+    USE editorial;
+
+There are no results to be displayed.
+
+---
+**Query #2**
+
+    SELECT  * FROM empleados;
+
+| nif | nombre_empleado | apellidos_empleado | telefono_empleado | codigo_de_sucursal1 |
+| --- | --------------- | ------------------ | ----------------- | ------------------- |
+| 1   | ANGELICA        | BLANCAS MIRANDA    | 5534563748        | 1                   |
+| 2   | DAVID           | ASPEITIA ESCOBEDO  | 7289467349        | 2                   |
+| 3   | ANGEL           | GALINDO HERAS      | 8203978465        | 3                   |
+| 4   | ISMAEL          | FERNANDEZ HERNADEZ | 8263748987        | 4                   |
+| 5   | MAURICIO        | ANDA JUAREZ        | 5523784938        | 5                   |
+| 6   | ALONSO          | BLANCO ANGELES     | 7238946574        | 6                   |
+| 7   | ALMA            | SALAZAR HUERTA     | 3398475840        | 7                   |
+| 8   | BLANCA          | SANTOS SANTIAGO    | 5682394848        | 8                   |
+| 9   | IGNACIO         | HERNANDEZ HERNNDEZ | 5548738495        | 9                   |
+| 10  | MAURICIO        | MARQUEZ CHAVEZ     | 8236475894        | 10                  |
+| 11  | ANGEL           | JUAREZ LEON        | 7658495857        | 1                   |
+| 12  | DANIEL          | FRI LUCAS          | 5564738943        | 1                   |
+
+---
+
+[View on DB Fiddle](https://www.db-fiddle.com/f/iAUjGLoFoHtam2pK68Xh1B/1)
+  
+
   
 * Los titulos de las revistas
 * Los nombres, apellidos y especialidad de los periodostas
