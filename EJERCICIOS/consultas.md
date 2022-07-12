@@ -2,9 +2,8 @@ En la BD utilizada en clase realiza las siguientes consultas:
 
 * La tabla empleado
 
-    
- 
-**Query #1**
+
+  **Query #1**
 
     USE editorial;
 
@@ -37,12 +36,28 @@ There are no results to be displayed.
 
   
 * Los titulos de las revistas
+ 
+ ![imagen](https://user-images.githubusercontent.com/101213081/178586784-635ba252-7e44-4941-88ef-1029d611e359.png)
+ 
+ ![imagen](https://user-images.githubusercontent.com/101213081/178587737-ddab2fcf-f929-4d8c-8e8b-bc71830f1e69.png)
+
+ 
+  
+ ![imagen](https://user-images.githubusercontent.com/101213081/178587270-e8f9f1eb-d7b5-4bbf-b593-69a3a78a9860.png)
+
+
 * Los nombres, apellidos y especialidad de los periodostas
+
+
 * Muestra los empleados que estan en x sucursal
+
+
 
  ![imagen](https://user-images.githubusercontent.com/101213081/178567230-bb5fd06c-41bd-4f36-833c-7384b60eae00.png)
 
 * Muestra que periodistas colaboraron en x revista y en que sucursal se publico la revista
+
+
 * Mustra que seccion esta en x revista, en que sucursal se imprimio y que empleados estan en esa sucursal.
 
   
@@ -62,8 +77,13 @@ There are no results to be displayed.
   #
 
 * De la tabla revistas muestra las que sean de publicacion quincenal
-* Muestra el nombre de ka revista que se hayan impreso despues del 30 de septiembre del 2021
+
+
+* Muestra el nombre de La revista que se hayan impreso despues del 30 de septiembre del 2021
+  
+  
+
 * Muestra el nombre de la revista que se haya publicado en la sucursal 1 cuyos ejemplares tengan más de 80 páginas.
 
-https://www.db-fiddle.com/f/iAUjGLoFoHtam2pK68Xh1B/1
+ https://www.db-fiddle.com/f/iAUjGLoFoHtam2pK68Xh1B/1
 
