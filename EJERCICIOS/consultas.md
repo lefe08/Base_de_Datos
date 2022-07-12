@@ -41,7 +41,12 @@ There are no results to be displayed.
 * Muestra los empleados que estan en x sucursal
 * Muestra que periodistas colaboraron en x revista y en que sucursal se publico la revista
 * Mustra que seccion esta en x revista, en que sucursal se imprimio y que empleados estan en esa sucursal.
+
+  
+
+
 * En la tabla peridistas muestra solo los que escriban sobre cine
+
    
    https://www.db-fiddle.com/f/t7mHgBf6RfsEQQL6ApgCJP/0
    
