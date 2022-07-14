@@ -89,10 +89,18 @@ There are no results to be displayed.
   #
 
 * De la tabla revistas muestra las que sean de publicacion quincenal
-
+  
+  ![imagen](https://user-images.githubusercontent.com/101213081/179058453-c9ffcc5c-dd65-4b00-8d08-fd7e6595a205.png)
+  
+  ![imagen](https://user-images.githubusercontent.com/101213081/179058539-49ef27db-7259-4e69-86a7-0b6c9b932345.png)
+ 
+  ![imagen](https://user-images.githubusercontent.com/101213081/179058812-60b8c894-1605-4220-9856-8b73ae20b935.png)
+  
+  #
 
 * Muestra el nombre de La revista que se hayan impreso despues del 30 de septiembre del 2021
-  
+    
+    
   
 
 * Muestra el nombre de la revista que se haya publicado en la sucursal 1 cuyos ejemplares tengan más de 80 páginas.
