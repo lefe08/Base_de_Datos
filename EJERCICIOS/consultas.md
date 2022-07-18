@@ -49,6 +49,7 @@ En la BD utilizada en clase realiza las siguientes consultas:
  
  ![imagen](https://user-images.githubusercontent.com/101213081/178591378-8db536ff-36ed-44cc-84b1-8e8c9164073d.png)
  
+ 
   #
 * Muestra los empleados que estan en x sucursal
   
@@ -78,11 +79,15 @@ En la BD utilizada en clase realiza las siguientes consultas:
 
 * Mustra que seccion esta en x revista, en que sucursal se imprimio y que empleados estan en esa sucursal.
   
+   ![imagen](https://user-images.githubusercontent.com/101213081/179627660-3cc43020-9ad1-4310-8de9-e736939b078f.png)
    
-   
-  
-  
 
+   ![imagen](https://user-images.githubusercontent.com/101213081/179627699-9ce64dc6-f839-4fdd-9c77-4900ab28450d.png)
+
+  
+   ![imagen](https://user-images.githubusercontent.com/101213081/179627908-54f952eb-f17b-42d5-8963-89c6097bd5e4.png)
+
+  #
 
 * En la tabla peridistas muestra solo los que escriban sobre cine
 
