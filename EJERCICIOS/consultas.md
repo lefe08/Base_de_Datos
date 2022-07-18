@@ -61,13 +61,22 @@ There are no results to be displayed.
    
    ![imagen](https://user-images.githubusercontent.com/101213081/179573104-ee499089-ffaa-4c77-9a9d-6157e8217949.png)
 
-
+ #
 
 
 * Muestra que periodistas colaboraron en x revista y en que sucursal se publico la revista
 
 
-  ![imagen](https://user-images.githubusercontent.com/101213081/178567230-bb5fd06c-41bd-4f36-833c-7384b60eae00.png)
+
+  ![imagen](https://user-images.githubusercontent.com/101213081/179576574-383f3d27-d5e9-438c-96f2-bff8ed60b1c5.png)
+  
+  ![imagen](https://user-images.githubusercontent.com/101213081/179576817-5d11f1ab-f924-4759-8bc4-69e2387e436d.png)
+  
+  ![imagen](https://user-images.githubusercontent.com/101213081/179577111-54924380-f4e0-46ec-b779-8f4a0a1fb38e.png)
+
+
+
+  # 
 
 * Mustra que seccion esta en x revista, en que sucursal se imprimio y que empleados estan en esa sucursal.
   
