@@ -51,18 +51,15 @@ There are no results to be displayed.
  ![imagen](https://user-images.githubusercontent.com/101213081/178590916-8e88da95-d514-4129-b1c9-11cd938bd7cb.png)
  
  ![imagen](https://user-images.githubusercontent.com/101213081/178591378-8db536ff-36ed-44cc-84b1-8e8c9164073d.png)
-
-
+ 
+  #
 * Muestra los empleados que estan en x sucursal
   
-  ![imagen](https://user-images.githubusercontent.com/101213081/178599134-66d1ea05-ca32-491c-8c46-26acc20ef576.png)
-  
-  
-  ![imagen](https://user-images.githubusercontent.com/101213081/178599209-d223f174-2c6c-4dee-97fa-aea5fd5b866c.png)
-
-
-  ![imagen](https://user-images.githubusercontent.com/101213081/178598792-c4096e98-43dc-475d-a3de-c0193443efc1.png)
-
+   ![imagen](https://user-images.githubusercontent.com/101213081/179572676-992e7ea9-2641-4d6e-8588-d9a3b81aeb08.png)
+ 
+   ![imagen](https://user-images.githubusercontent.com/101213081/179572905-df50fc30-2dbc-4c49-8bcc-11472cbc471c.png)
+   
+   ![imagen](https://user-images.githubusercontent.com/101213081/179573104-ee499089-ffaa-4c77-9a9d-6157e8217949.png)
 
 
 
