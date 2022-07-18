@@ -3,16 +3,12 @@ En la BD utilizada en clase realiza las siguientes consultas:
 * La tabla empleado
 
 
-  **Query #1**
+  
 
-    USE editorial;
 
-There are no results to be displayed.
 
----
-**Query #2**
+   ![imagen](https://user-images.githubusercontent.com/101213081/179624477-e0b07259-0b68-4318-b846-993f8715ae0e.png)
 
-    SELECT  * FROM empleados;
 
 | nif | nombre_empleado | apellidos_empleado | telefono_empleado | codigo_de_sucursal1 |
 | --- | --------------- | ------------------ | ----------------- | ------------------- |
@@ -32,8 +28,9 @@ There are no results to be displayed.
 ---
 
 [View on DB Fiddle](https://www.db-fiddle.com/f/iAUjGLoFoHtam2pK68Xh1B/1)
-  
 
+  
+  #
   
 * Los titulos de las revistas
  
@@ -60,8 +57,9 @@ There are no results to be displayed.
    ![imagen](https://user-images.githubusercontent.com/101213081/179572905-df50fc30-2dbc-4c49-8bcc-11472cbc471c.png)
    
    ![imagen](https://user-images.githubusercontent.com/101213081/179573104-ee499089-ffaa-4c77-9a9d-6157e8217949.png)
+   
 
- #
+  #
 
 
 * Muestra que periodistas colaboraron en x revista y en que sucursal se publico la revista
